@@ -19,6 +19,10 @@ body {
   display: none;
 }
 
+.post-time {
+ color: rgb(0, 0, 0)
+}
+
 .text_description,
 .abb-text,
 .hide {
