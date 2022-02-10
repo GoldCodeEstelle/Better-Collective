@@ -32,13 +32,13 @@ body {
   font-weight: 200;
 }
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 800px) {
   .hide {
     display: none;
   }
 }
 
-@media only screen and (min-width: 770px) {
+@media only screen and (min-width: 800px) {
   .text_description {
     display: table-cell;
   }
